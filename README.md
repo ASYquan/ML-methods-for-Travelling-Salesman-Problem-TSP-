@@ -13,6 +13,7 @@ Plots are automatically generated for:
 - Algorithm performance curves
 - Population size comparison (for GA)
 
+## Unfortunately, due to copyright the data used the ML-algorithms cannot be published. However, it is data-agnostic. Meaning, it runs on all data sets as longs as there is .img to plot on, and a .csv-file to pull from:) 
 ---
 
 ## Project Goals
